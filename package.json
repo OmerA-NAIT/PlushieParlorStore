@@ -1,0 +1,24 @@
+{
+  "name": "plushieparlorstore",
+  "version": "1.0.0",
+  "description": "An online store for a theoretical collection of plushies, made for a front-end development course at NAIT in the Winter 2022 term.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmerA-NAIT/PlushieParlorStore.git"
+  },
+  "author": "Omer Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmerA-NAIT/PlushieParlorStore/issues"
+  },
+  "homepage": "https://github.com/OmerA-NAIT/PlushieParlorStore#readme",
+  "dependencies": {
+    "firebase": "^9.6.7",
+    "nanoid": "^3.3.1",
+    "parcel": "^2.3.1"
+  }
+}
