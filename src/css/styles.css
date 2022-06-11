@@ -9,4 +9,26 @@ h1 {
   padding: 1rem;
 }
 
+.plushies {
+  border: 1px solid coral;
+}
+
+.plushie {
+  width: max-content;
+  border: 1px solid cornsilk;
+  box-shadow: 0 0 5px 2px grey;
+  margin: 20px;
+}
+
+.plushie img {
+  border: 3px dotted cornflowerblue;
+  box-shadow: 0 0 2px 2px grey;
+}
+
+.plushie h3 {
+  font-size: 1.25rem;
+  text-align: center;
+  font-weight: 700;
+}
+
 /*# sourceMappingURL=styles.css.map */

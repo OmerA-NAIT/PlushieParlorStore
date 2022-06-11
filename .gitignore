@@ -7,7 +7,7 @@
 .env-template
 
 # firebase config file
- 
+/src/js/libs/firebase/firebaseConfig.js
 
 # Parcel Development Files
 /.parcel-cache
@@ -16,5 +16,3 @@
 
 # OS Files
 .DS_Store
-
-
